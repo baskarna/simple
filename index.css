@@ -1,0 +1,23 @@
+*{
+    background-color:yellow;
+    margin: 0;
+}
+.on{
+    display: flex;
+    flex-direction: column;
+    
+}
+ #two img{
+    height: 400px;
+    width: 1269px;
+}
+.one {
+    margin-top: 20px;
+    margin-left: 570px;
+}
+.one label,input{
+    margin-bottom: 20px;
+}
+.one button{
+    margin-left: 110px;
+}
